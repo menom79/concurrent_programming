@@ -1,0 +1,14 @@
+﻿  Assignment7.cpp
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(15,32): error C2760: syntax error: 'identifier' was unexpected here; expected ';'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(16,26): error C2760: syntax error: 'identifier' was unexpected here; expected ';'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(17,46): error C2760: syntax error: '>' was unexpected here; expected 'expression'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(17,46): error C2760: syntax error: '>' was unexpected here; expected ';'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(17,46): error C2760: syntax error: '>' was unexpected here; expected '}'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(17,46): error C2059: syntax error: '>'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(20,42): error C2065: 'gen': undeclared identifier
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(20,29): error C3861: 'sensorValues': identifier not found
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(28,1): error C2059: syntax error: ')'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(29,5): error C2059: syntax error: '}'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(29,1): error C2143: syntax error: missing ';' before '}'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(31,17): error C2143: syntax error: missing ';' before '{'
+D:\e\study\fall23\concurrent\Assignment7\Assignment7.cpp(31,17): error C2447: '{': missing function header (old-style formal list?)
